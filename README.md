@@ -2,6 +2,20 @@
 
 Data policies in top economics journals and their focus on result replication/reproducibility.
 
+## Journal of Econometrics, Elsevier
+
+"PUBLICATION POLICIES
+2. Authors are expected to submit replication code and data files once a paper is conditionally accepted. In case when proprietary data are used, replication code should be made available so that another researcher with the same data can reproduce the results."
+
+Ref: [https://www.elsevier.com/journals/journal-of-econometrics/0304-4076/guide-for-authors#1005]
+
+## Journal of Financial Economics, Elsevier
+"Code and data deposit to RunMyCode.org
+
+You can enrich your online article by uploading relevant computer code and data to the RunMyCode repository. Once published, your article on ScienceDirect will be linked to a dedicated RunMyCode companion website via the "Data for this article" application displayed next to the article, in the right hand side panel. This linkage will allow readers to access your code and data via the RunMyCode companion website. To create a companion website, please go to: http://www.runmycode.org/home."
+
+Ref: [https://www.elsevier.com/journals/journal-of-financial-economics/0304-405x/guide-for-authors]
+
 ## American Economic Review
 
 "Authors of accepted papers that contain empirical work, simulations, or experimental work must provide, prior to publication, the **data, programs, and other details of the computations sufficient to permit replication**. These will be posted on the AEA website. The Editor should be notified at the time of submission if the data used in a paper are proprietary or if, for some other reason, the requirements above cannot be met."
